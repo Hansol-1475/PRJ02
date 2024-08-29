@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    gdhong:
+      email: gdhong@mail.com
+      name: "\uD64D\uAE38\uB3D9"
+      password: $2b$12$.iE9n0mb8Kt7Kkt/BeVeOeh7K6YEjCaRRD7VyqjT9axwLm1r.1LAi
+    ssyi:
+      email: ssyi@mail.com
+      name: "\uC774\uC21C\uC2E0"
+      password: $2b$12$b0FnBTfewT0HPcKuXR8FZeF41Dh/s34fQBljoA7FkYONd76RIUATC
+preauthorized:
+  emails:
+  - admin123@mail.com
+cookie:
+  expiry_days: 30
+  key: abcd
+  name: myCookie
