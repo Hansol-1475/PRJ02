@@ -13,11 +13,11 @@ Verification of the Policy to Increase Medical School Students in South Korea**
 
 **\[Current Progress\]**
 
-* **Data Collection (Completed)**  
+* 1. Data Collection (Completed)**  
   * Collected data from the OECD website  
   * Gathered data from various other websites  
-* **Data Visualization (Completed)**  
+* 2. Data Visualization (Completed)**  
   * Visualized the collected data  
-* **Web App Development and Deployment (Completed)**  
+* 3. Web App Development and Deployment (Completed)**  
   * Developed and deployed the app using Streamlit
 
