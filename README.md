@@ -1,4 +1,4 @@
-**Data Analysis and Visualization Project:
+**Data Analysis and Visualization Project:   
 Verification of the Policy to Increase Medical School Students in South Korea**
 
 **\[Overview\]**
